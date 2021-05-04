@@ -1,0 +1,6 @@
+{
+  "name": "TagTables",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TagTables.js"
+}

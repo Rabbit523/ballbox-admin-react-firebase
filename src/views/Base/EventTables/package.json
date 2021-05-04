@@ -1,0 +1,6 @@
+{
+  "name": "EventTables",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EventTables.js"
+}

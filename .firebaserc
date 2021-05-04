@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "ballbox-admin",
+    "staging": "ballbox-admin"
+  }
+}

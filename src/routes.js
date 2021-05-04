@@ -1,0 +1,10 @@
+export const SIGN_UP = '/register';
+export const SIGN_IN = '/login';
+export const DASHBOARD = '/dashboard';
+export const EVENTLIST = '/eventlist';
+export const EVENT_EDIT = '/editevent/:key';
+export const EVENT_ADD = '/addevent';
+export const TAGLIST = '/taglist';
+export const TAG_EDIT = '/edittag/:key';
+export const TAG_ADD = '/addtag';
+export const HOME = '/';
